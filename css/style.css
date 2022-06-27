@@ -1,0 +1,57 @@
+body{ 
+    background-color: white;
+    }
+.button{
+        width: 100px;
+        height: 1cm;
+        border: 2px solid red;
+        border-radius: 10px;
+    }
+.ds-header{
+    background-color: pink;
+    width: 100vw;
+    height: 2cm;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.lg1 img{
+height:1cm;
+width: 1cm;
+border-radius: 5px;
+margin-left: 1cm;
+}
+.nav-1{
+list-style: none;
+color: red;
+margin-right: 1cm;
+}
+.nav{
+    display: inline-block;
+    margin: auto 10px;
+}
+.image2{
+    margin-top: 3cm;
+    display: flex;
+    justify-content: center;
+}
+.nav-2{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 70%;
+}
+strong{color: red;}
+.box{background-color: black;
+    height: 8cm;
+text-align: center;
+}
+.conten3{color: white;
+padding-top: 1cm;}
+span{color: red;}
+.conten2{line-height: 0;}
+
