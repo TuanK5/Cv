@@ -1,12 +1,6 @@
 body{ 
     background-color: white;
     }
-.button{
-        width: 100px;
-        height: 1cm;
-        border: 2px solid red;
-        border-radius: 10px;
-    }
 .ds-header{
     background-color: pink;
     width: 100vw;
@@ -46,12 +40,24 @@ margin-right: 1cm;
     margin-right: 70%;
 }
 strong{color: red;}
-.box{background-color: black;
-    height: 8cm;
+.box{
+    margin-top: 1cm;
+    background-color: black;
+    height: 10cm;
 text-align: center;
 }
 .conten3{color: white;
 padding-top: 1cm;}
 span{color: red;}
-.conten2{line-height: 0;}
+.button{
+    width: 150px;
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 20px;
+    padding-top: 1em;
+    box-sizing: content-box;
+}
+.box1{
+    display: inline-block;
+}
 
